@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I'm Nagireddy and a frontend developer !!** 
+**I'm Nagireddy, frontend developer !!** 
 
 Here are some ideas to get you started:
 
