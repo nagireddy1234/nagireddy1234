@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React, Redux and Typescript...
 - 🌱 I’m currently learning Nodejs...
 - 📫 How to reach me: ...https://nagireddy.netlify.com/
+- 📫 Linkedin :...https://www.linkedin.com/in/nagi-reddy-62594aba/
 
 ## Certificates
 
