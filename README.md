@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 ## Certificates
 
 <ul>
-<li> <a href="https://www.freecodecamp.org/certification/fcccaeadb8a-c22c-4e63-ab09-9dabf3b81f78/javascript-algorithms-and-data-structures" target="_blank"> JavaScript Algorithms and Data Structures</a> </li>
-<li> <a href="https://www.hackerrank.com/certificates/ad1a93fb2ee0" target="_blank"> JavaScript HackerRank test </a> </li>
-<li> <a href="https://app.testdome.com/cert/1c2bc7c187614b47a1167c9c0fd4304a" target="_blank"> React JS Online test ranking in the top 25%</a> </li>
-<li> <a href="https://www.sololearn.com/certificates/course/en/9639034/1024/landscape/png" target="_blank"> JavaScript Sololearn course certificate</a> </li>
+<li> <a href="https://www.freecodecamp.org/certification/fcccaeadb8a-c22c-4e63-ab09-9dabf3b81f78/javascript-algorithms-and-data-structures" target="_blank" rel="noopener"> JavaScript Algorithms and Data Structures</a> </li>
+<li> <a href="https://www.hackerrank.com/certificates/ad1a93fb2ee0" target="_blank" rel="noopener"> JavaScript HackerRank test </a> </li>
+<li> <a href="https://app.testdome.com/cert/1c2bc7c187614b47a1167c9c0fd4304a" target="_blank" rel="noopener"> React JS Online test ranking in the top 25%</a> </li>
+<li> <a href="https://www.sololearn.com/certificates/course/en/9639034/1024/landscape/png" target="_blank" rel="noopener"> JavaScript Sololearn course certificate</a> </li>
 
 </ul>
 
