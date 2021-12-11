@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://nagireddy.netlify.com/
 - 📫 Linkedin :...https://www.linkedin.com/in/nagi-reddy-62594aba/
 
-## Certificates
+## Reputations
 
 <ul>
 <li> <a href="https://www.freecodecamp.org/certification/fcccaeadb8a-c22c-4e63-ab09-9dabf3b81f78/javascript-algorithms-and-data-structures" target="_blank" rel="noopener"> JavaScript Algorithms and Data Structures</a> </li>
