@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <li> <a href="https://www.hackerrank.com/certificates/ad1a93fb2ee0" target="_blank" rel="noopener"> JavaScript HackerRank test </a> </li>
 <li> <a href="https://app.testdome.com/cert/1c2bc7c187614b47a1167c9c0fd4304a" target="_blank" rel="noopener"> React JS Online test ranking in the top 25%</a> </li>
 <li> <a href="https://www.sololearn.com/certificates/course/en/9639034/1024/landscape/png" target="_blank" rel="noopener"> JavaScript Sololearn course certificate</a> </li>
+<li> <a href="https://www.hackerrank.com/certificates/41b8b2e18a74" target="_blank" rel="noopener"> JavaScript HackerRank test </a> </li>
 
 </ul>
 
